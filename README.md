@@ -27,5 +27,4 @@ Now you are ready to play. </br>
 - Game Paused </br> <img width="300" alt="snake-paused" src="https://user-images.githubusercontent.com/93842197/149677733-8d2e8760-2d09-490d-99ea-439b25ab81f2.png">
 
 ***
-<p align = "right"> (<a href = "#top"> Back to Top </a>) </p>  
-<p align = "left"> <a href = "https://github.com/vl4dio4n">@vl4dio4n</a></p> 
+<p align = "center"> <a href = "https://github.com/vl4dio4n">@vl4dio4n</a></p> 
