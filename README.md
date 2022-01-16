@@ -11,7 +11,7 @@ It has implemented a highscore function and also you can choose your background 
 
 ## Usage
 Before playing, make sure to have the **_pygame_** package installed. </br>
-In order to to this, just type in a terminal the following command: </br>
+In order to do this, just type in a terminal the following command: </br>
 ```bash
 pip install pygame
 ```
