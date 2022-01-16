@@ -6,7 +6,7 @@ It has implemented a highscore function and also you can choose your background 
 ## Game Controls
 - Snake's moving direction can be changed using the arrow keys. </br>
 - The game can be paused by pressing the **_P_** key or from the **_PAUSE_** button <br>
-- To resume the game, just press again any key or the **_RESUME_** button </br>
+- To resume the game, just press any key or the **_RESUME_** button </br>
 - Use **_M_** key or press the **_MUTE_** button in order to stop the sound </br> 
 
 ## Usage
