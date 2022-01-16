@@ -15,7 +15,7 @@ In order to do this, just type in a terminal the following command: </br>
 ```bash
 pip install pygame
 ```
-After that, open a terminal in the <a href = "Snake"> **_project's folder_** </a> and run the followin command:
+After that, open a terminal in the <a href = "Snake"> **project's folder** </a> and run the followin command:
 ```bash
 python snake.py
 ```
